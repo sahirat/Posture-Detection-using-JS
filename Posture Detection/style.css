@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(#2193b0 , #6dd5ed);
+}
+h1{
+ color: white;
+ font-family: cursive;
+ padding-top: 3%;
+ padding-left: 2%;
+}
